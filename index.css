@@ -1,0 +1,79 @@
+
+body{
+    background-image:linear-gradient(rgb(0,0,0,0.8),rgb(0,0,0,0.8)), url("NMAM3.jpg");
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   }
+/*.bgimg{
+    
+    height:100vh ;
+    background-size: cover;
+    background-position: center;
+}
+*/
+/*#map
+{
+    height: 700px;
+    width: 100%;
+} 
+*/
+.login{
+    text-align : center ;
+    color:#ffc107 ;
+    padding-top: 10%;
+}
+
+.username{
+    border-radius: 20px;
+    text-align: center;
+}
+
+.password{
+    border-radius: 20px;
+    text-align: center;
+   
+}
+.submit{
+    border-radius: 15px;
+    height: 40px;
+    width: auto;
+}
+
+.img1{
+    padding-bottom: 0.5% ;
+}
+
+/*ul.nav a:hover{
+    color: yellow !important;
+} */
+
+#navmenu #cur{
+    font-size: 25px !important;
+    color: #fbff13 !important;
+}
+
+.nav-link{
+    font-size: 25px !important;
+    color: #ffc107 !important;
+}
+
+.nav-link:hover{
+    font-size: 25px !important;
+    color: #fbff13 !important;
+}
+
+
+#table1{
+    border: 1px solid black;
+}
+
+/*#principal{
+    border-radius: 20px;
+}*/
+
+h3{
+    color: #ffc107;
+}
