@@ -1,2 +1,2 @@
 # college-navigation-project
-first project done by me
+My first project
